@@ -1,0 +1,79 @@
+body {
+    background-color: #0865de;
+  }
+  /*  ფონტით შემოტანილი სურათის ლოგო */
+  .link img {
+    width: 27px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    margin-right: 700px;
+  }
+  /* წერტილებით აწყობილი ლოგო  */
+  
+  .dot {
+    height: 27px;
+    width: 27px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 700px;
+  }
+  .smallDot {
+    height: 10px;
+    width: 10px;
+    margin-top: 8px;
+    margin-right: 8px;
+    background-color: #0865de;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  
+  .link a {
+    color: #ffffff;
+    margin: 0 18px 0 18px;
+    text-decoration: none;
+  }
+  
+  .link {
+    text-align: right;
+    margin: 28px 128px 0 0;
+    font-size: 16px;
+  }
+  span {
+    color: white;
+  }
+  .title {
+    margin-left: 179px;
+  }
+  
+  h1 {
+    font-size: 30px;
+    color: white;
+    text-align: left;
+    margin-top: 102px;
+  }
+  
+  .title article {
+    color: #d1d1d1;
+    font-size: 14px;
+    margin-top: 30px;
+    line-height: 2;
+  }
+  
+  .impact {
+    margin: 90px 0 30px 179px;
+  }
+  
+  h2 {
+    color: white;
+    font-size: 25px;
+    text-align: left;
+  }
+  
+  .impact article {
+    color: #d1d1d1;
+    font-size: 25px;
+    text-align: left;
+    line-height: 1.7;
+  }
+  
